@@ -1,0 +1,2567 @@
+{
+  "code":"0",
+  "data":[
+    {
+      "id":3966,
+      "kod":"ACSEL",
+      "ad":"Ac?selsan Ac?payam Selüloz Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":6,
+      "kod":"ADANA",
+      "ad":"ADANA Ç?MENTO SANAY?? TÜRK A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8,
+      "kod":"ADBGR",
+      "ad":"ADANA Ç?MENTO SANAY?? TÜRK A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9,
+      "kod":"ADEL",
+      "ad":"Adel Kalemcilik Ticaret Ve Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3025,
+      "kod":"ADESE",
+      "ad":"Adese Al??veri? Hizmetleri Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":10,
+      "kod":"ADNAC",
+      "ad":"ADANA Ç?MENTO SANAY?? TÜRK A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":12,
+      "kod":"AEFES",
+      "ad":"Anadolu Efes Birac?l?k Ve Malt Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":16,
+      "kod":"AFYON",
+      "ad":"Afyon Çimento Sanayi Türk .A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":613,
+      "kod":"AGHOL",
+      "ad":"AG Anadolu Grubu Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":18,
+      "kod":"AGYO",
+      "ad":"Atakule Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":20,
+      "kod":"AKBNK",
+      "ad":"Akbank T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":21,
+      "kod":"AKCNS",
+      "ad":"Akçansa Çimento Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":22,
+      "kod":"AKENR",
+      "ad":"Akenerji Elektrik Üretim A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2617,
+      "kod":"AKFGY",
+      "ad":"Akfen Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":24,
+      "kod":"AKGRT",
+      "ad":"Aksigorta A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3963,
+      "kod":"AKGUV",
+      "ad":"Akdeniz Güvenlik Hizmetleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1107,
+      "kod":"AKMGY",
+      "ad":"Akmerkez Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":7197,
+      "kod":"AKPAZ",
+      "ad":"Akyürek Tüketim Ürünleri Pazarlama Da??t?m ve Tica",
+      "tip":"Hisse"
+    },
+    {
+      "id":26,
+      "kod":"AKSA",
+      "ad":"Aksa Akrilik Kimya Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2209,
+      "kod":"AKSEN",
+      "ad":"Aksa Enerji Üretim A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":5344,
+      "kod":"AKSGY",
+      "ad":"Aki? Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":27,
+      "kod":"AKSUE",
+      "ad":"Aksu Enerji Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":29,
+      "kod":"ALARK",
+      "ad":"Alarko Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1558,
+      "kod":"ALBRK",
+      "ad":"Albaraka Türk Kat?l?m Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":30,
+      "kod":"ALCAR",
+      "ad":"Alarko Carrier Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":31,
+      "kod":"ALCTL",
+      "ad":"Alcatel Lucent Teleta? Telekomünikasyon A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":32,
+      "kod":"ALGYO",
+      "ad":"Alarko Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":33,
+      "kod":"ALKA",
+      "ad":"Alkim Ka?it Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":34,
+      "kod":"ALKIM",
+      "ad":"Alkim Alkali Kimya A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":37,
+      "kod":"ALYAG",
+      "ad":"Alt?nya? Kombinalar? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":39,
+      "kod":"ANACM",
+      "ad":"Anadolu Cam Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2218,
+      "kod":"ANELE",
+      "ad":"Anel Elektrik Proje Taahhüt ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1177,
+      "kod":"ANELT",
+      "ad":"Anel Telekomünikasyon Elektronik Sistemleri Sanayi",
+      "tip":"Hisse"
+    },
+    {
+      "id":41,
+      "kod":"ANHYT",
+      "ad":"Anadolu Hayat Emeklilik A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":42,
+      "kod":"ANSGR",
+      "ad":"Anadolu Anonim Türk Sigorta ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":44,
+      "kod":"ARCLK",
+      "ad":"Arçelik A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":45,
+      "kod":"ARENA",
+      "ad":"Arena Bilgisayar Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1356,
+      "kod":"ARMDA",
+      "ad":"Armada Bilgisayar Sistemleri Sanayi ve Ticaret Ano",
+      "tip":"Hisse"
+    },
+    {
+      "id":47,
+      "kod":"ARSAN",
+      "ad":"Arsan Tekstil Ticaret Ve Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4211,
+      "kod":"ARTI",
+      "ad":"Art? Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":49,
+      "kod":"ASELS",
+      "ad":"Aselsan Elektronik Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":50,
+      "kod":"ASLAN",
+      "ad":"Aslan Çimento A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":51,
+      "kod":"ASUZU",
+      "ad":"Anadolu Isuzu Otomotiv Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1334,
+      "kod":"ASYAB",
+      "ad":"Asya Kat?l?m Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":53,
+      "kod":"ATAGY",
+      "ad":"Ata Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":54,
+      "kod":"ATEKS",
+      "ad":"Ak?n Tekstil A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":55,
+      "kod":"ATLAS",
+      "ad":"Atlas Menkul K?ymetler Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4194,
+      "kod":"ATPET",
+      "ad":"Atlantik Petrol Ürünleri Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":57,
+      "kod":"ATSYH",
+      "ad":"Atlantis Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":59,
+      "kod":"AVGYO",
+      "ad":"Avrasya Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4374,
+      "kod":"AVHOL",
+      "ad":"Avrupa Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9081,
+      "kod":"AVISA",
+      "ad":"AvivaSA Emeklilik ve Hayat A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3084,
+      "kod":"AVOD",
+      "ad":"A.V.O.D. Kurutulmu? G?da ve Tar?m Ürünleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1541,
+      "kod":"AVTUR",
+      "ad":"Avrasya Petrol ve Turistik Tesisler Yat?r?m A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":60,
+      "kod":"AYCES",
+      "ad":"Alt?nyunus Çe?me Turistik Tesisler A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":61,
+      "kod":"AYEN",
+      "ad":"Ayen Enerji A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3979,
+      "kod":"AYES",
+      "ad":"Ayes Çelik Has?r Ve Çit Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":62,
+      "kod":"AYGAZ",
+      "ad":"Aygaz A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":64,
+      "kod":"BAGFS",
+      "ad":"Ba?fa? Band?rma Gubre Fabrikalar? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":65,
+      "kod":"BAKAB",
+      "ad":"Bak Ambalaj Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":7126,
+      "kod":"BAKAN",
+      "ad":"Bakanlar Medya A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4046,
+      "kod":"BALAT",
+      "ad":"Balatac?lar Balatac?l?k Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":67,
+      "kod":"BANVT",
+      "ad":"Banvit Band?rma Vitaminli Yem Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4030,
+      "kod":"BASCM",
+      "ad":"Ba?ta? Ba?kent Çimento Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4354,
+      "kod":"BERA",
+      "ad":"Bera Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3735,
+      "kod":"BEYAZ",
+      "ad":"Beyaz Filo Oto Kiralama A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":73,
+      "kod":"BFREN",
+      "ad":"Bosch Fren Sistemleri Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1140,
+      "kod":"BIMAS",
+      "ad":"B?M Birle?ik Ma?azalar A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2402,
+      "kod":"BIZIM",
+      "ad":"Bizim Toptan Sat?? Ma?azalar? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":76,
+      "kod":"BJKAS",
+      "ad":"Be?ikta? Futbol Yat?r?mlar? Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2622,
+      "kod":"BLCYT",
+      "ad":"Bilici Yat?r?m San. ve Tic. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2586,
+      "kod":"BMEKS",
+      "ad":"Bimeks Bilgi ??lem ve D?? Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9004,
+      "kod":"BMELK",
+      "ad":"Bomonti Elektrik Mühendislik Mü?avirlik ?n?aat Tur",
+      "tip":"Hisse"
+    },
+    {
+      "id":55173,
+      "kod":"BNKTR",
+      "ad":"BANKALAR BORSA YATIRIM FONU",
+      "tip":"Hisse"
+    },
+    {
+      "id":9198,
+      "kod":"BNTAS",
+      "ad":"Banta? Band?rma Ambalaj Sanayi Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":77,
+      "kod":"BOLUC",
+      "ad":"Bolu Çimento Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":78,
+      "kod":"BOSSA",
+      "ad":"Bossa Ticaret Ve Sanayi ??letmeleri T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":36,
+      "kod":"BOYP",
+      "ad":"Boyner Perakende Ve Tekstil Yat?r?mlar? Anonim ?ir",
+      "tip":"Hisse"
+    },
+    {
+      "id":81,
+      "kod":"BRISA",
+      "ad":"Brisa Bridgestone Sabanc? Last?k San.Ve Tic.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1884,
+      "kod":"BRKO",
+      "ad":"Birko Birle?ik Koyunlulular Mensucat Ticaret ve Sa",
+      "tip":"Hisse"
+    },
+    {
+      "id":2591,
+      "kod":"BRKSN",
+      "ad":"Berkosan Yal?t?m ve Tecrit Maddeleri Üretim ve Tic",
+      "tip":"Hisse"
+    },
+    {
+      "id":83,
+      "kod":"BRMEN",
+      "ad":"Birlik Mensucat Ticaret Ve Sanayi ?sletmeleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":85,
+      "kod":"BRSAN",
+      "ad":"Borusan Mannesmann Boru San. ve Tic. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":87,
+      "kod":"BRYAT",
+      "ad":"Borusan Yat?r?m Ve Pazarlama A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":88,
+      "kod":"BSOKE",
+      "ad":"Bat?söke Söke Çimento Sanayii T.A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":90,
+      "kod":"BTCIM",
+      "ad":"Bat?çim Bat? Anadolu Çimento Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":91,
+      "kod":"BUCIM",
+      "ad":"Bursa Çimento Fabrikas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":93,
+      "kod":"BURCE",
+      "ad":"Burçelik Bursa Çelik Döküm Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":884,
+      "kod":"BURVA",
+      "ad":"Burçelik Vana Sanayi ve Ticaret A?",
+      "tip":"Hisse"
+    },
+    {
+      "id":1335,
+      "kod":"CCOLA",
+      "ad":"Coca Cola ?çecek A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":98,
+      "kod":"CELHA",
+      "ad":"Çelik Halat Ve Tel Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2224,
+      "kod":"CEMAS",
+      "ad":"Çema? Döküm San. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":99,
+      "kod":"CEMTS",
+      "ad":"Çemta? Çelik Makina Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":110,
+      "kod":"CIMSA",
+      "ad":"Çimsa Çimento Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":112,
+      "kod":"CLEBI",
+      "ad":"Çelebi Hava Servisi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":114,
+      "kod":"CMBTN",
+      "ad":"Çimbeton Haz?rBeton Ve Prefabrik Yap? Elemanlar? S",
+      "tip":"Hisse"
+    },
+    {
+      "id":115,
+      "kod":"CMENT",
+      "ad":"Çimenta? ?zmir Çimento Fabrikas? T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":92,
+      "kod":"COSMO",
+      "ad":"Cosmos Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":537,
+      "kod":"CRDFA",
+      "ad":"Creditwest Faktoring A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9222,
+      "kod":"CRFSA",
+      "ad":"Carrefoursa Carrefour Sabanc? Ticaret Merkezi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9318,
+      "kod":"CUSAN",
+      "ad":"Çuhadaro?lu Metal Sanayi ve Pazarlama A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":515,
+      "kod":"DAGHL",
+      "ad":"Dagi Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2658,
+      "kod":"DAGI",
+      "ad":"Dagi Giyim Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":129,
+      "kod":"DARDL",
+      "ad":"Dardanel Önenta? G?da Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":134,
+      "kod":"DENCM",
+      "ad":"Denizli Cam Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4039,
+      "kod":"DENGE",
+      "ad":"Denge Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":979,
+      "kod":"DENIZ",
+      "ad":"Denizbank A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":137,
+      "kod":"DERIM",
+      "ad":"Derimod Konfeksiyon Ayakkab? Deri San.Ve Tic.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":847,
+      "kod":"DESA",
+      "ad":"Desa Deri Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2342,
+      "kod":"DESPC",
+      "ad":"Despec Bilgisayar Pazarlama ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":138,
+      "kod":"DEVA",
+      "ad":"Deva Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1274,
+      "kod":"DGATE",
+      "ad":"Datagate Bilgisayar Malzemeleri Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":234,
+      "kod":"DGGYO",
+      "ad":"Do?u? Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":312,
+      "kod":"DGKLB",
+      "ad":"Do?ta? Kelebek Mobilya Sanayi Ve Ticaret Anonim ?i",
+      "tip":"Hisse"
+    },
+    {
+      "id":348,
+      "kod":"DGZTE",
+      "ad":"Do?an Gazetecilik A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4079,
+      "kod":"DIRIT",
+      "ad":"Diriteks Dirili? Tekstil Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":141,
+      "kod":"DITAS",
+      "ad":"Ditas Do?an Yedek Parça ?malat Ve Teknik A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":55170,
+      "kod":"DJIST",
+      "ad":"DJ ISTANBUL T20",
+      "tip":"Hisse"
+    },
+    {
+      "id":254,
+      "kod":"DMISH",
+      "ad":"Mish Dekorasyon Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9495,
+      "kod":"DMISH",
+      "ad":"Mish Dekorasyon Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":144,
+      "kod":"DMSAS",
+      "ad":"Demisa? Döküm Emaye Mamülleri Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":905,
+      "kod":"DOAS",
+      "ad":"Do?u? Otomotiv Servis ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":146,
+      "kod":"DOBUR",
+      "ad":"Do?an Burda Dergi Yay?nc?l?k ve Pazarlama A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2340,
+      "kod":"DOCO",
+      "ad":"DO & CO Aktiengesellschaft",
+      "tip":"Hisse"
+    },
+    {
+      "id":147,
+      "kod":"DOGUB",
+      "ad":"Do?usan Boru Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":148,
+      "kod":"DOHOL",
+      "ad":"Do?an Sirketler Grubu Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":56403,
+      "kod":"DOKTA",
+      "ad":"DOKTAS DOKÜMCÜLÜK",
+      "tip":"Hisse"
+    },
+    {
+      "id":150,
+      "kod":"DURDO",
+      "ad":"Duran Do?an Bas?m ve Ambalaj San. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":153,
+      "kod":"DYOBY",
+      "ad":"Dyo Boya Fabrikalar? Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":145,
+      "kod":"DZGYO",
+      "ad":"Deniz Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":159,
+      "kod":"ECILC",
+      "ad":"E?S Eczac?ba?? ?laç S?nai ve Finansal Yat?r?mlar S",
+      "tip":"Hisse"
+    },
+    {
+      "id":161,
+      "kod":"ECZYT",
+      "ad":"Eczac?ba?? Yat?r?m Holding Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":162,
+      "kod":"EDIP",
+      "ad":"Edip Gayrimenkul Yat?r?m Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":55789,
+      "kod":"EGCEY",
+      "ad":"EGELI&CO ENERJI YATIRIM",
+      "tip":"Hisse"
+    },
+    {
+      "id":576,
+      "kod":"EGCYH",
+      "ad":"Egeli&Co Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":192,
+      "kod":"EGCYO",
+      "ad":"Egeli & Co Tar?m Giri?im Sermayesi Yat?r?m Ortakl?",
+      "tip":"Hisse"
+    },
+    {
+      "id":164,
+      "kod":"EGEEN",
+      "ad":"Ege Endustri Ve Ticaret Anonim A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":165,
+      "kod":"EGGUB",
+      "ad":"Ege Gubre Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":166,
+      "kod":"EGPRO",
+      "ad":"Ege Profil Ticaret Ve Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":168,
+      "kod":"EGSER",
+      "ad":"Ege Seramik Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2341,
+      "kod":"EKGYO",
+      "ad":"Emlak Konut Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2232,
+      "kod":"EKIZ",
+      "ad":"Ekiz Kimya Sanayi ve Ticaret A. ?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":171,
+      "kod":"EMKEL",
+      "ad":"Emek Elektrik Endüstrisi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":172,
+      "kod":"EMNIS",
+      "ad":"Emini? Ambalaj Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2988,
+      "kod":"ENJSA",
+      "ad":"Enerjisa Enerji A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":175,
+      "kod":"ENKAI",
+      "ad":"Enka ?n?aat ve Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":176,
+      "kod":"EPLAS",
+      "ad":"Egeplast Ege Plast?k Ticaret Ve Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":177,
+      "kod":"ERBOS",
+      "ad":"Erbosan Erciyas Boru Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":178,
+      "kod":"EREGL",
+      "ad":"Eregli Demir Ve Çelik Fabrikalar? T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":179,
+      "kod":"ERSU",
+      "ad":"Ersu Meyve Ve G?da Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":180,
+      "kod":"ESCOM",
+      "ad":"Escort Teknoloji Yat?r?m A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":181,
+      "kod":"ESEMS",
+      "ad":"Esem Spor Giyim Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3980,
+      "kod":"ETILR",
+      "ad":"Etiler G?da Ve Ticari Yat?r?mlar Sanayi Ve Ticaret",
+      "tip":"Hisse"
+    },
+    {
+      "id":1771,
+      "kod":"ETYAT",
+      "ad":"Euro Trend Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2219,
+      "kod":"EUHOL",
+      "ad":"Euro Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2837,
+      "kod":"EUKYO",
+      "ad":"Euro Kapital Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1361,
+      "kod":"EUYO",
+      "ad":"Euro Menkul K?ymet Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":55172,
+      "kod":"FBIST",
+      "ad":"FBIST B Tipi Borsa Yat?r?m Fonu",
+      "tip":"Hisse"
+    },
+    {
+      "id":714,
+      "kod":"FENER",
+      "ad":"Fenerbahçe Futbol A?",
+      "tip":"Hisse"
+    },
+    {
+      "id":3942,
+      "kod":"FLAP",
+      "ad":"Flap Kongre Toplant? Hizmetleri Otomotiv ve Turizm",
+      "tip":"Hisse"
+    },
+    {
+      "id":201,
+      "kod":"FMIZP",
+      "ad":"Federal-Mogul ?zmit Piston Ve Pim Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9551,
+      "kod":"FONET",
+      "ad":"Fonet Bilgi Teknolojileri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":56870,
+      "kod":"FORMT",
+      "ad":"FORMET ÇEL?K SANAY?",
+      "tip":"Hisse"
+    },
+    {
+      "id":205,
+      "kod":"FRIGO",
+      "ad":"Fr?go - Pak G?da Maddeleri San. Ve Tic. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":206,
+      "kod":"FROTO",
+      "ad":"Ford Otomotiv Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":209,
+      "kod":"GARAN",
+      "ad":"T.Garanti Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":210,
+      "kod":"GARFA",
+      "ad":"Garanti Faktoring A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2235,
+      "kod":"GEDIK",
+      "ad":"Gedik Yat?r?m Menkul De?erler A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8264,
+      "kod":"GEDZA",
+      "ad":"Gediz Ambalaj Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":221,
+      "kod":"GENTS",
+      "ad":"Genta? Genel Metal Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":222,
+      "kod":"GEREL",
+      "ad":"Gersan Elektrik Ticaret Ve Sanayi A. ?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2876,
+      "kod":"GLBMD",
+      "ad":"Global Menkul De?erler A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":55171,
+      "kod":"GLDTR",
+      "ad":"ISTANBUL GOLD B TIPI",
+      "tip":"Hisse"
+    },
+    {
+      "id":1342,
+      "kod":"GLRYH",
+      "ad":"Güler Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":226,
+      "kod":"GLYHO",
+      "ad":"Global Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3808,
+      "kod":"GMSTRF",
+      "ad":"?stanbul Gümü? BYF",
+      "tip":"Hisse"
+    },
+    {
+      "id":55174,
+      "kod":"GOLDP",
+      "ad":"B?Z?M PORTFÖY ALTIN BORSA YATIRIM FONU",
+      "tip":"Hisse"
+    },
+    {
+      "id":230,
+      "kod":"GOLTS",
+      "ad":"Gölta? Goller Bolgesi Çimento San.Ve Tic.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":231,
+      "kod":"GOODY",
+      "ad":"Goodyear Lastikleri T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2172,
+      "kod":"GOZDE",
+      "ad":"Gözde Giri?im Sermayesi Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":235,
+      "kod":"GRNYO",
+      "ad":"Garanti Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2918,
+      "kod":"GSDDE",
+      "ad":"GSD Denizcilik Gayrimenkul ?n?aat Sanayi ve Ticare",
+      "tip":"Hisse"
+    },
+    {
+      "id":236,
+      "kod":"GSDHO",
+      "ad":"GSD Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":237,
+      "kod":"GSRAY",
+      "ad":"Galatasaray Sportif S?nai ve Ticari Yat?r?mlar Ano",
+      "tip":"Hisse"
+    },
+    {
+      "id":238,
+      "kod":"GUBRF",
+      "ad":"Gübre Fabrikalar? T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":239,
+      "kod":"GUSGR",
+      "ad":"Güne? Sigorta A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":219,
+      "kod":"GYHOL",
+      "ad":"Gedik Yat?r?m Holding A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":1543,
+      "kod":"HALKB",
+      "ad":"Türkiye Halk Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3900,
+      "kod":"HALKS",
+      "ad":"Halk Sigorta A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2619,
+      "kod":"HATEK",
+      "ad":"Hateks Hatay Tekstil ??letmeleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9098,
+      "kod":"HDFGS",
+      "ad":"Hedef Giri?im Sermayesi Yat?r?m Ortakl??? Anonim ?",
+      "tip":"Hisse"
+    },
+    {
+      "id":245,
+      "kod":"HEKTS",
+      "ad":"Hekta? Ticaret T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":5797,
+      "kod":"HLGYO",
+      "ad":"Halk Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":57032,
+      "kod":"HUBVC",
+      "ad":"HUB GIRISIM SERMAYESI",
+      "tip":"Hisse"
+    },
+    {
+      "id":252,
+      "kod":"HURGZ",
+      "ad":"Hurriyet Gazetecilik Ve Matbaac?l?k A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":525,
+      "kod":"ICBCT",
+      "ad":"ICBC Turkey Bank A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":61062,
+      "kod":"IDEAS",
+      "ad":"?DEAL?ST DANI?MANLIK A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2223,
+      "kod":"IDGYO",
+      "ad":"?dealist Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":355,
+      "kod":"IEYHO",
+      "ad":"I??klar Enerji Ve Yap? Holding Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":258,
+      "kod":"IHEVA",
+      "ad":"?hlas Ev Aletleri ?malat Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2216,
+      "kod":"IHGZT",
+      "ad":"?hlas Gazetecilik A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":261,
+      "kod":"IHLAS",
+      "ad":"?hlas Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":394,
+      "kod":"IHLGM",
+      "ad":"?hlas Gayrimenkul Proje Geli?tirme ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2315,
+      "kod":"IHYAY",
+      "ad":"?hlas Yay?n Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":919,
+      "kod":"INDES",
+      "ad":"Indeks Bilgisayar Sistemleri Mühendislik San. Ve T",
+      "tip":"Hisse"
+    },
+    {
+      "id":2933,
+      "kod":"INFO",
+      "ad":"?nfo Yat?r?m Menkul De?erler A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":267,
+      "kod":"INTEM",
+      "ad":"?ntema ?n?aat Ve Tesisat Malz.Yat.Ve Paz.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":269,
+      "kod":"IPEKE",
+      "ad":"?pek Do?al Enerji Kaynaklar? Ara?t?rma ve Üretim A",
+      "tip":"Hisse"
+    },
+    {
+      "id":272,
+      "kod":"ISATR",
+      "ad":"Türkiye ?? Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4208,
+      "kod":"ISBIR",
+      "ad":"??bir Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":274,
+      "kod":"ISBTR",
+      "ad":"Türkiye ?? Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":275,
+      "kod":"ISCTR",
+      "ad":"Türkiye ?? Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9334,
+      "kod":"ISDMR",
+      "ad":"?skenderun Demir ve Çelik A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":276,
+      "kod":"ISFIN",
+      "ad":"?? Finansal Kiralama A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":989,
+      "kod":"ISGSY",
+      "ad":"?? Giri?im Sermayesi Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":277,
+      "kod":"ISGYO",
+      "ad":"?? Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":278,
+      "kod":"ISKUR",
+      "ad":"Türkiye ?? Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1546,
+      "kod":"ISMEN",
+      "ad":"?? Yat?r?m Menkul De?erler A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":55177,
+      "kod":"IST30",
+      "ad":"IMKB 30 Atipi Borsa Yat?r?m Fonu",
+      "tip":"Hisse"
+    },
+    {
+      "id":55175,
+      "kod":"ISY30",
+      "ad":"IS YATIRIM A Tipi Borsa Yat?r?m Fonu",
+      "tip":"Hisse"
+    },
+    {
+      "id":280,
+      "kod":"ISYAT",
+      "ad":"?? Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2147,
+      "kod":"ITTFH",
+      "ad":"?ttifak Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9009,
+      "kod":"IZFAS",
+      "ad":"?zmir F?rça San. Ve Tic. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":286,
+      "kod":"IZMDC",
+      "ad":"?zmir Demir Çelik Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":287,
+      "kod":"IZOCM",
+      "ad":"?zocam Ticaret Ve Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8071,
+      "kod":"IZTAR",
+      "ad":"?z Hayvanc?l?k Tar?m ve G?da Sanayi Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4078,
+      "kod":"JANTS",
+      "ad":"Jantsa Jant Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":303,
+      "kod":"KAPLM",
+      "ad":"Kaplam?n Ambalaj Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1484,
+      "kod":"KAREL",
+      "ad":"Karel Elektronik Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":304,
+      "kod":"KARSN",
+      "ad":"Karsan Otomotiv Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":305,
+      "kod":"KARTN",
+      "ad":"Kartonsan Karton Sanay? Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2334,
+      "kod":"KATMR",
+      "ad":"Katmerciler Araç Üstü Ekipman Sanayi ve Ticaret A.",
+      "tip":"Hisse"
+    },
+    {
+      "id":307,
+      "kod":"KCHOL",
+      "ad":"Koç Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":308,
+      "kod":"KENT",
+      "ad":"Kent G?da Maddeler? Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":100,
+      "kod":"KERVN",
+      "ad":"Kervansaray Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":309,
+      "kod":"KERVT",
+      "ad":"Kerevita? G?da Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":56589,
+      "kod":"KFEIN",
+      "ad":"KAFEIN YAZILIM C",
+      "tip":"Hisse"
+    },
+    {
+      "id":2588,
+      "kod":"KLGYO",
+      "ad":"Kiler Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":313,
+      "kod":"KLMSN",
+      "ad":"Klimasan Klima Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":529,
+      "kod":"KLNMA",
+      "ad":"T.Kalk?nma Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":314,
+      "kod":"KNFRT",
+      "ad":"Konfrut G?da Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":316,
+      "kod":"KONYA",
+      "ad":"Konya Çimento Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":317,
+      "kod":"KORDS",
+      "ad":"Kordsa Global Endüstriyel ?plik ve Kord Bezi San. ",
+      "tip":"Hisse"
+    },
+    {
+      "id":319,
+      "kod":"KOZAA",
+      "ad":"Koza Anadolu Metal Madencilik ??letmeleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2177,
+      "kod":"KOZAL",
+      "ad":"Koza Alt?n ??letmeleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1197,
+      "kod":"KPHOL",
+      "ad":"Kapital Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":320,
+      "kod":"KRDMA",
+      "ad":"Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":321,
+      "kod":"KRDMB",
+      "ad":"Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":322,
+      "kod":"KRDMD",
+      "ad":"Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":8993,
+      "kod":"KRGYO",
+      "ad":"Körfez Gayrimenkul Yat?r?m Ortakl???  A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2649,
+      "kod":"KRONT",
+      "ad":"Kron Telekomünikasyon Hizmetleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4034,
+      "kod":"KRSAN",
+      "ad":"Karsusan Karadeniz Su Ürünleri Sanayii Anonim ?irk",
+      "tip":"Hisse"
+    },
+    {
+      "id":323,
+      "kod":"KRSTL",
+      "ad":"Kr?stal Kola Ve Me?rubat Sanayi Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":324,
+      "kod":"KRTEK",
+      "ad":"Karsu Tekstil Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4209,
+      "kod":"KSTUR",
+      "ad":"Ku?tur Ku?adas? Turizm Endüstrisi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":327,
+      "kod":"KUTPO",
+      "ad":"Kutahya Porselen Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4086,
+      "kod":"KUYAS",
+      "ad":"Kuyumcukent Gayrimenkul Yat?r?mlar? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9006,
+      "kod":"LIDFA",
+      "ad":"Lider Faktoring A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":329,
+      "kod":"LINK",
+      "ad":"Link Bilgisayar Sistemleri Yaz?l?m? ve Donan?m? Sa",
+      "tip":"Hisse"
+    },
+    {
+      "id":2484,
+      "kod":"LKMNH",
+      "ad":"Lokman Hekim Engürüsa? Sa?l?k Turizm E?itim Hizmet",
+      "tip":"Hisse"
+    },
+    {
+      "id":331,
+      "kod":"LOGO",
+      "ad":"Logo Yaz?l?m Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":333,
+      "kod":"LUKSK",
+      "ad":"Lüks Kadife Ticaret Ve Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":334,
+      "kod":"MAALT",
+      "ad":"Marmaris Alt?nyunus Turistik Tesisler A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":335,
+      "kod":"MAKTK",
+      "ad":"Makina Tak?m Endüstrisi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1118,
+      "kod":"MARKA",
+      "ad":"Marka Yat?r?m Holding Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":350,
+      "kod":"MARTI",
+      "ad":"Mart? Otel ??letmeleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9555,
+      "kod":"MAVI",
+      "ad":"Mavi Giyim Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3832,
+      "kod":"MEGAP",
+      "ad":"Mega Polietilen Köpük Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":338,
+      "kod":"MEMSA",
+      "ad":"Mensa S?nai Ticari Mali Yat?r?mlar A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":7457,
+      "kod":"MENBA",
+      "ad":"Menba Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2822,
+      "kod":"MEPET",
+      "ad":"Mepet Metro Petrol ve Tesisleri Sanayi ve Ticaret ",
+      "tip":"Hisse"
+    },
+    {
+      "id":3978,
+      "kod":"MERIT",
+      "ad":"Merit Turizm Yat?r?m ve ??letme A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":339,
+      "kod":"MERKO",
+      "ad":"Merko G?da Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1344,
+      "kod":"METAL",
+      "ad":"Metal Gayrimenkul A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":575,
+      "kod":"METRO",
+      "ad":"Metro Ticari ve Mali Yat?r?mlar Holding A. ?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":341,
+      "kod":"METUR",
+      "ad":"Metemtur Otelcilik Ve Turizm ??letmeleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":346,
+      "kod":"MGROS",
+      "ad":"Migros T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":349,
+      "kod":"MIPAZ",
+      "ad":"Milpa Ticari Ve S?nai Ürünler Paz.San. Ve Tic.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3083,
+      "kod":"MMCAS",
+      "ad":"MMC Sanayi Ve Ticari Yat?r?mlar A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":351,
+      "kod":"MNDRS",
+      "ad":"Menderes Tekstil Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2990,
+      "kod":"MPARK",
+      "ad":"MLP Sa?l?k Hizmetleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":353,
+      "kod":"MRDIN",
+      "ad":"Mardin Çimento Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2297,
+      "kod":"MRGYO",
+      "ad":"Mart? Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":354,
+      "kod":"MRSHL",
+      "ad":"Marshall Boya Ve Vernik Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9538,
+      "kod":"MSGYO",
+      "ad":"Mistral Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":57031,
+      "kod":"MTRYO",
+      "ad":"METRO YATIRIM A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":363,
+      "kod":"MZHLD",
+      "ad":"Mazhar Zorlu Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":379,
+      "kod":"NETAS",
+      "ad":"Nortel Networks Neta? Telekomünikasyon A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3628,
+      "kod":"NIBAS",
+      "ad":"Ni?ba? Ni?de Beton Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":386,
+      "kod":"NTHOL",
+      "ad":"Net Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":388,
+      "kod":"NUGYO",
+      "ad":"Nurol Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":389,
+      "kod":"NUHCM",
+      "ad":"Nuh Çimento Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":6863,
+      "kod":"ODAS",
+      "ad":"Oda? Elektrik Üretim San. ve Tic. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":396,
+      "kod":"OLMIP",
+      "ad":"Olmuksan International Paper Ambalaj Sanayi ve Tic",
+      "tip":"Hisse"
+    },
+    {
+      "id":3828,
+      "kod":"ORGE",
+      "ad":"Orge Enerji Elektrik Taahhüt A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4248,
+      "kod":"ORMA",
+      "ad":"Orma Orman Mahsülleri ?ntegre Sanayi ve Ticaret A.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3624,
+      "kod":"OSMEN",
+      "ad":"Osmanl? Yat?r?m Menkul De?erler A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3822,
+      "kod":"OSTIM",
+      "ad":"Ostim Endüstriyel Yat?r?mlar Ve ??letme A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":398,
+      "kod":"OTKAR",
+      "ad":"Otokar Otomotiv ve Savunma Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1542,
+      "kod":"OYAYO",
+      "ad":"Oyak Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3815,
+      "kod":"OYLUM",
+      "ad":"Oylum S?nai Yat?r?mlar A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2827,
+      "kod":"OZBAL",
+      "ad":"Özbal Çelik Boru Sanayi Ticaret ve Taahhüt A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":400,
+      "kod":"OZGYO",
+      "ad":"Özderici Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3613,
+      "kod":"OZKGY",
+      "ad":"Özak Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9101,
+      "kod":"OZRDN",
+      "ad":"Özerden Plastik Sanayi Ve Ticaret Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":6952,
+      "kod":"PAGYO",
+      "ad":"Panora Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":430,
+      "kod":"PARSN",
+      "ad":"Parsan Makina Parçalar? Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":224,
+      "kod":"PEGYO",
+      "ad":"Pera Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2991,
+      "kod":"PEKGY",
+      "ad":"Peker Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":433,
+      "kod":"PENGD",
+      "ad":"Penguen G?da Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":435,
+      "kod":"PETKM",
+      "ad":"Petkim Petrokimya Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":436,
+      "kod":"PETUN",
+      "ad":"P?nar Entegre Et Ve Un Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":6507,
+      "kod":"PGSUS",
+      "ad":"Pegasus Hava Ta??mac?l??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":437,
+      "kod":"PIMAS",
+      "ad":"Pima? Plastik ?n?aat Malzemeleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":438,
+      "kod":"PINSU",
+      "ad":"P?nar Su Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":960,
+      "kod":"PKART",
+      "ad":"Plastikkart Ak?ll? Kart ?leti?im Sistemleri Sanayi",
+      "tip":"Hisse"
+    },
+    {
+      "id":439,
+      "kod":"PKENT",
+      "ad":"Petrokent Turizm A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":444,
+      "kod":"PNSUT",
+      "ad":"P?nar Süt Mamülleri Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3841,
+      "kod":"POLHO",
+      "ad":"Polisan Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8273,
+      "kod":"POLTK",
+      "ad":"Politeknik Metal Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":448,
+      "kod":"PRKAB",
+      "ad":"Türk Prysmian Kablo ve Sistemleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":449,
+      "kod":"PRKME",
+      "ad":"Park Elektrik Üretim Madencilik Sanayi ve Ticaret ",
+      "tip":"Hisse"
+    },
+    {
+      "id":3829,
+      "kod":"PRZMA",
+      "ad":"Prizma Pres Matbaac?l?k Yay?nc?l?k Sanayi ve Ticar",
+      "tip":"Hisse"
+    },
+    {
+      "id":9079,
+      "kod":"PSDTC",
+      "ad":"Pergamon Status D?? Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":200,
+      "kod":"QNBFB",
+      "ad":"QNB Finansbank Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":56402,
+      "kod":"QNBFL",
+      "ad":"QNB FINANS F?NANSAL K?RALAMA A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":55790,
+      "kod":"RALYH",
+      "ad":"RAL YATIRIM HOLDING",
+      "tip":"Hisse"
+    },
+    {
+      "id":456,
+      "kod":"RAYSG",
+      "ad":"Ray Sigorta A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":579,
+      "kod":"RHEAG",
+      "ad":"Rhea Giri?im Sermayesi Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":7986,
+      "kod":"RODRG",
+      "ad":"Rodrigo Tekstil Sanayi Ve Ticaret Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":6714,
+      "kod":"ROYAL",
+      "ad":"Royal Hal? ?plik Tekstil Mobilya San. ve Tic. A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9000,
+      "kod":"RTALB",
+      "ad":"RTA Laboratuvarlar? Biy. Ürünler ?laç ve Makine Sa",
+      "tip":"Hisse"
+    },
+    {
+      "id":2230,
+      "kod":"RYGYO",
+      "ad":"Reysa? Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1273,
+      "kod":"RYSAS",
+      "ad":"Reysa? Ta??mac?l?k ve Lojistik Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":11,
+      "kod":"SAFKR",
+      "ad":"Safkar Ege So?utmac?l?k Klima So?uk Hava Tesisleri",
+      "tip":"Hisse"
+    },
+    {
+      "id":463,
+      "kod":"SAHOL",
+      "ad":"Hac? Ömer Sabanc? Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8003,
+      "kod":"SALIX",
+      "ad":"Salix Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2757,
+      "kod":"SAMAT",
+      "ad":"Saray Matbaac?l?k Ka??tç?l?k K?rtasiyecilik Ticare",
+      "tip":"Hisse"
+    },
+    {
+      "id":8082,
+      "kod":"SANEL",
+      "ad":"San-El Mühendislik Elektrik Taahhüt Sanayi ve Tica",
+      "tip":"Hisse"
+    },
+    {
+      "id":3806,
+      "kod":"SANFM",
+      "ad":"Sanifoam Sünger Sanayi ve Ticaret Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":464,
+      "kod":"SANKO",
+      "ad":"Sanko Pazarlama ?thalat ?hracat Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":465,
+      "kod":"SARKY",
+      "ad":"Sarkuysan Elektrolitik Bak?r Sanayi Ve Ticaret A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":467,
+      "kod":"SASA",
+      "ad":"Sasa Polyester Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":7464,
+      "kod":"SAYAS",
+      "ad":"Say Reklamc?l?k Yap? Dekorasyon Proje Taahhüt Sana",
+      "tip":"Hisse"
+    },
+    {
+      "id":936,
+      "kod":"SEKFK",
+      "ad":"?eker Finansal Kiralama A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8064,
+      "kod":"SEKUR",
+      "ad":"Sekuro Plastik Ambalaj Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1328,
+      "kod":"SELEC",
+      "ad":"Selçuk Ecza Deposu Ticaret ve Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":478,
+      "kod":"SELGD",
+      "ad":"Selçuk G?da Endüstri ?hracat ?thalat A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":479,
+      "kod":"SERVE",
+      "ad":"Serve K?rtasiye Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9221,
+      "kod":"SEYKM",
+      "ad":"Seyitler Kimya Sanayi Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":1360,
+      "kod":"SILVR",
+      "ad":"Silverline Endüstri ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":492,
+      "kod":"SISE",
+      "ad":"T.?i?e Ve Cam Fabrikalar? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":495,
+      "kod":"SKBNK",
+      "ad":"?ekerbank T.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":498,
+      "kod":"SKTAS",
+      "ad":"Sökta? Tekstil Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1557,
+      "kod":"SNGYO",
+      "ad":"Sinpa? Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9104,
+      "kod":"SNKRN",
+      "ad":"Senkron Güvenlik ve ?leti?im Sistemleri Anonim ?ir",
+      "tip":"Hisse"
+    },
+    {
+      "id":503,
+      "kod":"SNPAM",
+      "ad":"Sönmez Pamuklu Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":504,
+      "kod":"SODA",
+      "ad":"Soda Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3904,
+      "kod":"SODSN",
+      "ad":"Soda? Sodyum Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":56588,
+      "kod":"SOKM",
+      "ad":"?OK MARKETLER?",
+      "tip":"Hisse"
+    },
+    {
+      "id":505,
+      "kod":"SONME",
+      "ad":"Sönmez Filament Sentetik ?plik Ve Elyaf Sanayi A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":6500,
+      "kod":"SRVGY",
+      "ad":"Servet Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2989,
+      "kod":"SUMAS",
+      "ad":"Suma? Suni Tahta ve Mobilya Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":6965,
+      "kod":"TACTR",
+      "ad":"Taç Tar?m Ürünleri Hayvanc?l?k G?da Sanayi ve Tica",
+      "tip":"Hisse"
+    },
+    {
+      "id":517,
+      "kod":"TATGD",
+      "ad":"Tat G?da Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1518,
+      "kod":"TAVHL",
+      "ad":"TAV Havalimanlar? Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":518,
+      "kod":"TBORG",
+      "ad":"T.Tuborg Bira Ve Malt Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":519,
+      "kod":"TCELL",
+      "ad":"Turkcell ?leti?im Hizmetleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2992,
+      "kod":"TDGYO",
+      "ad":"TREND GAYR?MENKUL YATIRIM ORTAKLI?I A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":526,
+      "kod":"TEKTU",
+      "ad":"Tek-Art ?n?aat Ticaret Turizm Sanayi ve Yat?r?mlar",
+      "tip":"Hisse"
+    },
+    {
+      "id":3907,
+      "kod":"TGSAS",
+      "ad":"TGS D?? Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":527,
+      "kod":"THYAO",
+      "ad":"Türk Hava Yollar? A.O.",
+      "tip":"Hisse"
+    },
+    {
+      "id":528,
+      "kod":"TIRE",
+      "ad":"Mondi Tire Kutsan Ka??t Ve Ambalaj Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1638,
+      "kod":"TKFEN",
+      "ad":"Tekfen Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3831,
+      "kod":"TKNSA",
+      "ad":"Teknosa ?ç ve D?? Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4207,
+      "kod":"TKURU",
+      "ad":"Taze Kuru G?da Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2985,
+      "kod":"TLMAN",
+      "ad":"Trabzon Liman ??letmecili?i A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8195,
+      "kod":"TMPOL",
+      "ad":"Temapol Polimer Plastik ve ?n?aat Sanayi Ticaret A",
+      "tip":"Hisse"
+    },
+    {
+      "id":4373,
+      "kod":"TMSN",
+      "ad":"Tümosan Motor ve Traktör Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":535,
+      "kod":"TOASO",
+      "ad":"Tofa? Türk Otomobil Fabrikas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":539,
+      "kod":"TRCAS",
+      "ad":"Turcas Petrol A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2304,
+      "kod":"TRGYO",
+      "ad":"Torunlar Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":540,
+      "kod":"TRKCM",
+      "ad":"Trakya Cam Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2195,
+      "kod":"TSGYO",
+      "ad":"TSKB Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":551,
+      "kod":"TSKB",
+      "ad":"Türkiye S?nai Kalk?nma Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1108,
+      "kod":"TSPOR",
+      "ad":"Trabzonspor Sportif Yat?r?m ve Futbol ??letmecili?",
+      "tip":"Hisse"
+    },
+    {
+      "id":1772,
+      "kod":"TTKOM",
+      "ad":"Türk Telekomünikasyon A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":903,
+      "kod":"TTRAK",
+      "ad":"Türk Traktör ve Ziraat Makineleri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9005,
+      "kod":"TUCLK",
+      "ad":"Tu?çelik Alüminyum ve Metal Mamülleri San. ve Tic.",
+      "tip":"Hisse"
+    },
+    {
+      "id":554,
+      "kod":"TUKAS",
+      "ad":"Tuka? G?da Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":555,
+      "kod":"TUPRS",
+      "ad":"Tüpra?, Türkiye Petrol Rafinerileri A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":7730,
+      "kod":"TURGG",
+      "ad":"Türker Proje Gayrimenkul ve Yat?r?m Geli?tirme A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":1487,
+      "kod":"UFUK",
+      "ad":"Ufuk Yat?r?m Yönetim Ve Gayrimenkul A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4041,
+      "kod":"ULAS",
+      "ad":"Ula?lar Turizm Yat?r?mlar? ve Dayan?kl? Tüketim Ma",
+      "tip":"Hisse"
+    },
+    {
+      "id":716,
+      "kod":"ULKER",
+      "ad":"Ülker Bisküvi Sanayi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9083,
+      "kod":"ULUSE",
+      "ad":"Ulusoy Elektrik ?malat Taahhüt Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9082,
+      "kod":"ULUUN",
+      "ad":"Ulusoy Un Sanayi ve Ticaret Anonim ?irketi",
+      "tip":"Hisse"
+    },
+    {
+      "id":9089,
+      "kod":"UMPAS",
+      "ad":"Umpa? Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":562,
+      "kod":"UNYEC",
+      "ad":"Ünye Çimento Sanayii Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":563,
+      "kod":"USAK",
+      "ad":"U?ak Seramik Sanayii A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3811,
+      "kod":"USDTRF",
+      "ad":"Dolar B Tipi BYF",
+      "tip":"Hisse"
+    },
+    {
+      "id":2703,
+      "kod":"UTPYA",
+      "ad":"Utopya Turizm ?n?aat ??letmecilik Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":3976,
+      "kod":"UZERB",
+      "ad":"Uzerta? Boya Sanayi Ticaret ve Yat?r?m A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1241,
+      "kod":"VAKBN",
+      "ad":"Türkiye Vak?flar Bankas? T.A.O.",
+      "tip":"Hisse"
+    },
+    {
+      "id":573,
+      "kod":"VAKFN",
+      "ad":"Vak?f Finansal Kiralama A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":574,
+      "kod":"VAKKO",
+      "ad":"Vakko Tekstil Ve Haz?r Giyim Sanayi ??letmeleri A.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2877,
+      "kod":"VANGD",
+      "ad":"Vanet G?da Sanayi ?ç ve D?? Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":9258,
+      "kod":"VERTU",
+      "ad":"Verusatürk Giri?im Sermayesi Yat?r?m Ortakl??? A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":8073,
+      "kod":"VERUS",
+      "ad":"Verusa Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":1326,
+      "kod":"VESBE",
+      "ad":"Vestel Beyaz E?ya Sanayi ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":578,
+      "kod":"VESTL",
+      "ad":"Vestel Elektronik Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":580,
+      "kod":"VKFYO",
+      "ad":"Vak?f Menkul K?ymet Yat?r?m Ortakl??? A. ?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":581,
+      "kod":"VKGYO",
+      "ad":"Vak?f Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":582,
+      "kod":"VKING",
+      "ad":"Viking Ka??t Ve Selüloz A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":2620,
+      "kod":"YAPRK",
+      "ad":"Yaprak Süt ve Besi Çiftlikleri Sanayi ve Ticaret A",
+      "tip":"Hisse"
+    },
+    {
+      "id":612,
+      "kod":"YATAS",
+      "ad":"Yata? Yatak Ve Yorgan San.Tic.A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":8074,
+      "kod":"YAYLA",
+      "ad":"Yayla Enerji Üretim Turizm ve ?n?aat Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":4044,
+      "kod":"YBTAS",
+      "ad":"Yibita? Yozgat ??çi Birli?i ?n?aat Malzemeleri Tic",
+      "tip":"Hisse"
+    },
+    {
+      "id":721,
+      "kod":"YESIL",
+      "ad":"Ye?il Yat?r?m Holding A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":7988,
+      "kod":"YGGYO",
+      "ad":"Yeni Gimat Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":260,
+      "kod":"YGYO",
+      "ad":"Ye?il Gayrimenkul Yat?r?m Ortakl??? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":616,
+      "kod":"YKBNK",
+      "ad":"Yap? Ve Kredi Bankas? A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":618,
+      "kod":"YKGYO",
+      "ad":"Yap? Kredi Koray Gayrimenkul Yat?r?m Ortakl??? A.?",
+      "tip":"Hisse"
+    },
+    {
+      "id":4031,
+      "kod":"YONGA",
+      "ad":"Yonga Mobilya Sanayi Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":622,
+      "kod":"YUNSA",
+      "ad":"Yünsa Yünlü Sanayi Ve Ticaret A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":84,
+      "kod":"YYAPI",
+      "ad":"Ye?il Yap? Endustrisi A.?.",
+      "tip":"Hisse"
+    },
+    {
+      "id":635,
+      "kod":"ZOREN",
+      "ad":"Zorlu Enerji Elektrik Üretim A.?.",
+      "tip":"Hisse"
+    }
+  ]
+}
